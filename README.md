@@ -7,11 +7,15 @@ python version 2.7 ( Can be download from [here](https://www.python.org/download
 
 ## Installation
 download or Clone the GitHub repository
+
 https://github.com/Basheer88/movie_trailer_website_generator
 
 # How to Add and Generate Your Website
-edit entertainment_center.py
-add new movie under ( Add Movies ) comment in the following format
+Launch python idle or any other python editor
+
+open **( entertainment_center.py )** file
+
+add new movie under **( Add Movies )** comment in the following format
 ```
 variable = media.Movie(movie name, story line, poster image, trialer url)
 ```
